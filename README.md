@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 기존에 쓰던 github account가 홀랑 사라져버려서 홀란스럽다.
+
 ### New account for github since 2022.07.01~
 #### private project 위주여서 public으로 올리는 건 적음
 
