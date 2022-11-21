@@ -5,9 +5,6 @@
 #### I transferred from business to computer engineering.
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdhcryan%2Fhit-counter&count_bg=%23643DC8&title_bg=%23555555&icon=fossa.svg&icon_color=%2322B468&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-![dhcryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhcryan&show_icons=true&theme=highcontrast)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhcryan&langs_count=8)](https://github.com/dhcryan/github-readme-stats)
 
 # Skills :chart_with_upwards_trend:
 ## Languages :snowman:
