@@ -2,7 +2,6 @@
 
 ### New account for github since 2022.07.01~
 #### private project 위주여서 public으로 올리는 건 적음 (1일 1commit..!)
-#### I transferred from business to computer engineering.
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdhcryan%2Fhit-counter&count_bg=%23643DC8&title_bg=%23555555&icon=fossa.svg&icon_color=%2322B468&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90)
 
