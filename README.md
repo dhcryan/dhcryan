@@ -45,8 +45,3 @@
 - **(Conference)** "Temporal Convolutional Network와 Transformer를 이용한 ...", KSC 2024.
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhcryan&show_icons=true&theme=dracula" alt="dhcryan's github stats"/>
-  <br/>
-</div>
