@@ -1,48 +1,52 @@
-### Hi there 👋
+<div align="center">
+  <a href="https://github.com/dhcryan">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Dong-Hun%20Choi&fontSize=70&fontColor=ffffff&animation=fadeIn" />
+  </a>
+</div>
 
-### New account for github since 2022.07.01~
-#### private project 위주여서 public으로 올리는 건 적음 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdhcryan%2Fhit-counter&count_bg=%23643DC8&title_bg=%23555555&icon=fossa.svg&icon_color=%2322B468&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90)
+<div align="center"> 
+  <h3>
+    An AI/ML Engineer & Researcher focused on building practical and impactful AI solutions.
+  </h3>
+</div>
 
+<div align="center">
+  <a href="mailto:dhc4003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  </div>
 
-# Skills :chart_with_upwards_trend:
-## Languages :snowman:
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python3-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-F02E65?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C-3CBDB1?style=flat-square&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/R-3776AB?style=flat-square&logo=R&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=green"/></a>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=gray"/></a>
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
+---
 
-## Frameworks :high_brightness:
-<img src="https://img.shields.io/badge/Spring-7ED321?style=flat-square&logo=Spring&logoColor=white"/></a>
-<a href="https://www.reactjs.org" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+### 🔬 About Me & Core Competencies
 
-## Tools :gun:
-<a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
-<a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse-007ACC?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/IntelliJ-E6526F?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+- 🎓 **Graduate Researcher** at Ajou University (Lamda Lab), focusing on time-series analysis, multimodal AI, and ECG signal processing.
+- 🤖 Specialized in building **LLM-powered Agents** and complex workflows using `LangGraph` and `OpenAI`.
+- 👁️ Experienced in **Computer Vision**, developing real-time object detection and tracking systems with `YOLOv5` and `StrongSORT`.
+- 🛠️ Proficient in creating end-to-end **MLOps pipelines** for automated training and deployment using `Docker`, `GitHub Actions`, and `MLflow`.
+- 💡 Passionate about bridging the gap between cutting-edge research and robust, production-ready applications.
 
+---
 
-<!--
-**dhcryan/dhcryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ My Tech Stack
 
-Here are some ideas to get you started:
+| Category              | Technologies                                                                                                                                                                                                                                                                    |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-FFFFFF?style=flat-square&logo=LangChain&logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white) |
+| **Backend & MLOps** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=MLflow&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) |
+| **Languages & Tools** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📜 Publications & Patents
+
+- **(Journal Submitted)** "Dual-FreqDAE: A Transformer-Based ... for ECG Denoising", *Journal of Biomedical and Health Informatics*.
+- **(Patent Pending)** "시간-주파수 결합 기반 심전도 신호 노이즈 제거 프레임워크" (App. No. 10-2025-0014670).
+- **(Conference)** "Temporal Convolutional Network와 Transformer를 이용한 ...", KSC 2024.
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhcryan&show_icons=true&theme=dracula" alt="dhcryan's github stats"/>
+  <br/>
+</div>
